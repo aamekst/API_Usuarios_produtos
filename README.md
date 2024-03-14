@@ -38,15 +38,15 @@ engine = create_engine("mysql://scott:tiger@localhost/foo")
 # sql server
 engine = create_engine("mssql+pymssql://scott:tiger@hostname:port/dbname")
 
-#Get
+# Get
 <img src="get.png">
-#Post
+# Post
 <img src="post.png">
-#Delete
+# Delete
 <img src="delete.png">
-#Get atualizado 
+# Get atualizado 
 <img src="get_novo.jpg">
-#Banco
+# Banco
 <img src="dbeaver.png">
 
 
