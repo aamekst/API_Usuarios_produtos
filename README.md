@@ -42,7 +42,7 @@ engine = create_engine("mssql+pymssql://scott:tiger@hostname:port/dbname")
 <img src="get.png">
 <img src="post.png">
 <img src="delete.png">
-<img src="get_novo.png">
+<img src="get_novo.jpg">
 
 
 
